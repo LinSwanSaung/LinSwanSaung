@@ -63,6 +63,11 @@ Native Android hiking companion app with modern architecture
 Cross-platform hiking management application
 - **Tech:** TypeScript, React Native
 
+### 🍔 [MM Nutrition](https://github.com/LinSwanSaung/mm-nutrition)
+Nutrition tracking and meal planning application
+- **Tech:** TypeScript
+- **Features:** Nutrition management, meal planning, dietary tracking
+
 ---
 
 ## 📊 GitHub Stats
