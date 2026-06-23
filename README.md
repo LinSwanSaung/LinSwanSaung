@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lin Swan Saung
 
-Full-Stack Developer passionate about building innovative web and mobile applications that solve real-world problems. Currently focused on logistics technology, healthcare systems, and scalable digital solutions.
+Full-Stack Developer passionate about building innovative web and mobile applications that solve real-world problems. Currently focused on logistics technology, healthcare systems, scalable digital solutions, and native mobile development.
 
 ---
 
@@ -17,7 +17,7 @@ Full-Stack Developer passionate about building innovative web and mobile applica
 
 **Frontend:** React, TypeScript, Tailwind CSS, Next.js  
 **Backend:** Node.js, Express, Python  
-**Mobile:** React Native  
+**Mobile:** React Native, Kotlin (Jetpack Compose)  
 **Databases:** PostgreSQL, MongoDB  
 **Tools & Platforms:** Vercel, Docker, Git, GitHub
 
@@ -53,6 +53,15 @@ AI-powered chatbot using Retrieval-Augmented Generation (RAG) for e-commerce
 ### 📱 [Hike Management Native App](https://github.com/LinSwanSaung/Hike_Management_Native_App)
 Mobile application for hiking trip management and outdoor adventure planning
 - **Tech:** React Native
+
+### 🥾 [M-Hike - Kotlin Native Android App](https://github.com/LinSwanSaung/M-Hike-Kotlin)
+Native Android hiking companion app with modern architecture
+- **Tech:** Kotlin, Jetpack Compose, Room Database
+- **Features:** Hiking trails, location tracking, offline functionality
+
+### 🏔️ [MHIKE - Multi-Platform Hiking App](https://github.com/LinSwanSaung/MHIKE)
+Cross-platform hiking management application
+- **Tech:** TypeScript, React Native
 
 ---
 
